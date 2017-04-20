@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Season 2016",
+  "title": "Google I/O 2017 Extended IUT",
   "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 9-10, 2016",
-  "locationAddressShort": "Lviv, Ukraine",
+  "dates": "May 20-21, 2017",
+  "locationAddressShort": "Tashkent, Uzbekistan",
   "motto": "Be a GDG. Be a Hero!",
   "playIcon": "See how it was in 2015",
   "c4p": "Become a speaker",
@@ -28,14 +28,14 @@
   "featuredPeopleTitle": "Rockstar Speakers",
   "featuredPeopleViewAll": "View all speakers",
   "action": "See how it was",
-  "locationTitle": "Pivdennyi Expo Center",
-  "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "locationAddress": "Shchyretska St, 36",
+  "locationTitle": "Inha University in Tashkent",
+  "locationDescription": "Newly built Inha University in Tashkent is a long-awaited  building in Tashkent, which can fulfill the needs of the large-scale event",
+  "locationAddress": "9, Ziyolilar Street, Mirzo-Ulugbek District",
   "organizerTitle": "Organizer",
-  "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+  "aboutOrganizers": "<a href='http://iutlab.uz' target='_blank'>IUTLab</a> with support of various sponsors and lovely Inha University in Tashkent",
   "openTeamPage": "Open team page",
-  "whatIsGdg": "What is GDG?",
-  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+  "whatIsGdg": "What is Google I/O Extended?",
+  "aboutGdg": "I/O Extended events include a variety of options for developers—from live streaming sessions to local demos, hackathons, codelabs, and more. This year Google I/O Extended coming to IUT for the third year in a row.",
   "readMore": "Read more",
   "copyLink": "Copy link",
   "filteredBy": "filtered by",
@@ -76,21 +76,6 @@
           "text": "Google Developers",
           "url": "https://developers.google.com/",
           "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
-          "newTab": true
         }
       ]
     },
@@ -119,10 +104,10 @@
     ]
   },
   "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what Google I/O (Extended) is about.<br><br> Google I/O 2017 Extended IUT is a conference of geek comunity to share their passion in tech, new experiments and network with local developer community. <br><br> Our goal is to organize space to connect the best industry experts with University students and beginners to boost development of IT.",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 300,
       "caption": "Attendees"
     },
     {
@@ -130,7 +115,7 @@
       "caption": "Days"
     },
     {
-      "counter": 30,
+      "counter": 25,
       "caption": "Sessions"
     },
     {

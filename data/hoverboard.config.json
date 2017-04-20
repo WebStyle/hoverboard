@@ -1,47 +1,41 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "url": "https://project-4008939318649506790.firebaseapp.com/",
+  "startDate": "2017-05-20T09:00:00+05:00",
+  "endDate": "2017-05-21T19:00:00+05:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-97734440-1",
+    "dev": "UA-97734440-1"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "Google I/O 2017 Extended IUT"
   },
   "webapp": {
-    "shortName": "DevFest",
-    "themeColor": "#F57C00",
-    "backgroundColor": "#F57C00"
+    "shortName": "Google I/O 2017 Extended IUT",
+    "themeColor": "#448AFF",
+    "backgroundColor": "#448AFF"
   },
   "firebase": {
-    "name": "hoverboard-experimental",
-    "domain": "hoverboard-experimental.firebaseapp.com",
-    "database": "https://hoverboard-experimental.firebaseio.com",
-    "api": "AIzaSyALDa2D7CMhK_wt2VkET1MaJuQXYVUJd2I",
+    "name": "io17atiut.firebaseapp.com",
+    "domain": "io17atiut.firebaseapp.com",
+    "database": "https://io17atiut.firebaseio.com",
+    "api": " AIzaSyDU5KIpEWnSSyWK9k84iUuLrMGoaTSK3Og",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
-    "indexedDbSession": "hoverboard"
+    "indexedDbSession": "io17atiut"
   },
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "https://iutlab.us11.list-manage.com/subscribe/post?u=f6dcfe356ab9fd8ad8d11457a&amp;id=68e45ad103",
+    "name": "68e45ad103"
   },
-  "hashtag": "dfua",
-  "disqusShortName": "hoverboard-gdg-x",
+  "hashtag": "io17iut",
+  "disqusShortName": "ioatiut",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
   "enableSessionsRating": true,
   "navigation": [
     {
       "route": "home",
       "permalink": "/"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
     },
     {
       "route": "schedule",
@@ -79,18 +73,19 @@
     }
   ],
   "location": {
-    "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "apiKey": "AIzaSyDIOnT0v8mSJmpegdx6AoU1u1S9Iw3r_T0",
+    "name": "Inha University in Tashkent",
+    "address": "9, Ziyolilar Street, Mirzo-Ulugbek District, Tashkent",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 41.3385243,
+      "longitude": 69.3344368,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 41.3409738,
+      "longitude": 69.3415681,
+      "zoom": 15
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -112,25 +107,17 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#448AFF",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
+          "title": "Google I/O  2016 Extended IUT",
           "youtubeId": "TdpbgRgz6eE",
           "text": "See how it was in 2016"
         },
         "hideLogo": true,
         "minHeight": "360px"
-      }
-    },
-    "blog": {
-      "title": "Blog",
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
       }
     },
     "speakers": {
@@ -158,7 +145,7 @@
       }
     },
     "cod": {
-      "title": "Cod of Conduct",
+      "title": "Code of Conduct",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",

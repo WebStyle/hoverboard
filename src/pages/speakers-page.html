@@ -177,6 +177,9 @@
                data="{{routeData}}"></app-route>
 
     <div class="container speakers-container">
+        <h1>
+            Coming soon!
+        </h1>
       <template is="dom-repeat" items="[[_toArray(speakers)]]" as="speaker" on-dom-change="updateCascadedNodes">
         <div class="speaker" cascaded>
           <paper-material class="card">
@@ -301,4 +304,3 @@
   </script>
 
 </dom-module>
-

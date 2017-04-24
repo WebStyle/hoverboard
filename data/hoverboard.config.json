@@ -29,7 +29,7 @@
   },
   "hashtag": "io17iut",
   "disqusShortName": "ioatiut",
-  "tweetsSource": "/data/tweets.json",
+  "tweetsSource": "http://iotweetr.herokuapp.com/favoritesjson.php?c=10&cache_interval=8000",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
   "enableSessionsRating": true,
   "navigation": [

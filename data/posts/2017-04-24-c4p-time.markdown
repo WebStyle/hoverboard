@@ -1,0 +1,55 @@
+Google I/O 2017  Extended IUT  has been announced! The 3rd time of the biggest conference about Google technologies in Tashkent will take on **May  20-21**(To be confirmed) in  city of Tashkent.
+
+That means that it is time to open [call for talk submissions](http://bit.ly/lecen). If you are passionate about your work and want to share your experience with   tech audience in Tashkent, you knocked on the right door.
+
+We can claim that Google I/O Extended 2016 was a great success.  **This year Google I/O  will break all expectations** of the audience, speakers, and even our ones with **90%+ of satisfied attendees**
+
+
+To keep up this year, we decided to focus on the content. **We’re looking for speakers like you**, who are ready to rock the stage and deliver the best talk or workshop in the field.
+<div class="text-center">
+<a href="http://bit.ly/lecen" target="_blank" class="style-scope header-content" style="color: white; ">
+  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
+</a>
+</div>
+
+<br/>
+
+### Why is it cool to be a speaker?
+
+Well, do you know a better way to attend the conference?
+
+1. **It is good for your career.** By being a speaker, you are proving your level of expertise to a potential business partners or employers.
+2. **It is good for the company you’re working for.** Any presentation delivered by an employee adds credibility to a company’s public image.
+3. **Unique networking.** Being a speaker means you’ll have unique chance to network with other speakers - the best experts in the industry.
+
+
+### Themes and topics – what do we expect?
+
+Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
+
+#### Android
+* New features in O ( notifications,app badges, Java 8)
+* RxJava
+* Data Binding
+* Testing and Architecture best practices (MVP, MVVP, Clean Architecture)
+
+#### Web
+#### Cloud
+
+<br/>
+
+**Call for Papers will stay open until May 15,2017.** Don’t miss out :)
+
+<div class="text-center">
+<a href="http://bit.ly/lecen" target="_blank" class="style-scope header-content" style="color: white; ">
+  <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Submit a proposal</paper-button>
+</a>
+</div>
+<br/>
+
+**Please note:** There is no guarantee that a submission will be put onto the conference agenda! The program committee picks the most interesting talk proposals and informs the selected submitters until May 20,2017.
+
+Any questions? Email organizers at [hello@iutlab.uz](mailto:hello@iutlab.uz)
+
+
+

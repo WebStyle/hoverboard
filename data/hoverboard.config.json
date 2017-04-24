@@ -29,8 +29,8 @@
   },
   "hashtag": "io17iut",
   "disqusShortName": "ioatiut",
-  "tweetsSource": "http://iotweetr.herokuapp.com/favoritesjson.php?c=10&cache_interval=8000",
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "tweetsSource": "http://iotweetr.herokuapp.com/tweetledee/favoritesjson.php?c=10&cache_interval=8000",
+  "partnershipProposition": "http://bit.ly/io17-sponsor",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -53,23 +53,18 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "IUTLab",
+      "url": "https://twitter.com/iut_lab"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "118391471407546109967",
+      "url": "https://plus.google.com/118391471407546109967"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "Google I/O Extended IUT",
+      "url": "https://www.facebook.com/iutextended/"
     }
   ],
   "location": {
@@ -94,7 +89,7 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://plus.google.com/events/gallery/csqlhr4rc7cdf2e9slgc4trdhis?sort=1",
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [

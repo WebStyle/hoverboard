@@ -84,13 +84,8 @@
       "title": "For Partners",
       "links": [
         {
-          "text": "Partnership Proposition",
-          "url": "http://bit.ly/io17-sponsor",
-          "newTab": true
-        },
-        {
           "text": "Media Kit",
-          "url": "http://bit.ly/io17-media",
+          "url": "http://bit.ly/io17-mediakit",
           "newTab": true
         }
       ]

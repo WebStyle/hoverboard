@@ -1,4 +1,4 @@
-Inha University in Tashkent and IUTLab are proud to announce the fifth annual Google I/O 2017 Extended IUT  which is one of the biggest Google related event in Tashkent carefully crafted by IUTLab, Texnoman and Uzgeeks this year! The event will take place on **20-21 May, 2017 ** (To be confirmed) in **Tashkent**.
+Inha University in Tashkent and IUTLab are proud to announce the fifth annual Google I/O 2017 Extended IUT  which is one of the biggest Google related event in Tashkent carefully crafted by IUTLab, Texnoman and Uzgeeks this year! The event will take place on **May 20, 2017 ** in **Tashkent**.
 
 ### What to expect
 
@@ -6,7 +6,7 @@ Inha University in Tashkent and IUTLab are proud to announce the fifth annual Go
 * 3 parallel tracks dedicated to **Android**, **Web** & **Cloud** technologies.
 * **Expanded workshop area** where participants will have an opportunity to get some new practical skills from the best developers in Google-related technologies.
 
-So hurry up to book tickets to the Google I/O Extened IUT, as you’ll get a big inspiration to create your cool projects after these days in the company of coders, geeks and just experts of our industry.
+So hurry up to book tickets to the Google I/O Extended IUT, as you’ll get a big inspiration to create your cool projects after these days in the company of coders, geeks and just experts of our industry.
 
 ### Festival organizers
 

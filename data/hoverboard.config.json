@@ -16,7 +16,7 @@
   },
   "firebase": {
     "name": "io17atiut.firebaseapp.com",
-    "domain": "io17atiut.firebaseapp.com",
+    "domain": "io17atiut.firebasfeapp.com",
     "database": "https://io17atiut.firebaseio.com",
     "api": " AIzaSyDU5KIpEWnSSyWK9k84iUuLrMGoaTSK3Og",
     "userSessionsPath": "/userSessions",
@@ -69,6 +69,11 @@
       "name": "facebook",
       "nickname": "Google I/O Extended IUT",
       "url": "https://www.facebook.com/iutextended/"
+    },
+    {
+      "name": "linkedin",
+      "nickname": "Google I/O Extended IUT",
+      "url": "https://t.me/iutextended/"
     }
   ],
   "location": {
@@ -119,14 +124,6 @@
         "minHeight": "360px"
       }
     },
-    "blog": {
-      "title": "Blog",
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
     "speakers": {
       "title": "Speakers",
       "headerSettings": {
@@ -147,6 +144,14 @@
       "title": "Team",
       "headerSettings": {
         "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "blog": {
+      "title": "Blog",
+      "headerSettings": {
+        "backgroundColor": "#03a9f4",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }

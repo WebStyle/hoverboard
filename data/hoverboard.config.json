@@ -31,7 +31,7 @@
   "disqusShortName": "ioatiut",
   "tweetsSource": "https://iotweetr.herokuapp.com/tweetledee/favoritesjson.php?c=10&cache_interval=8000",
   "partnershipProposition": "http://bit.ly/io17-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIIS1jX91rxyDNEXPQ54DrOu",
+  "videosSessionsUrl": "https://www.youtube.com/user/GoogleDevelopers/videos",
   "enableSessionsRating": true,
   "navigation": [
     {

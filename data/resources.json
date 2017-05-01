@@ -15,7 +15,7 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "contactUs": "Contact us",
   "ticketsTitle": "Tickets",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks. Accommodation is NOT included in the ticket price.",
+  "ticketsDetails": "Tickets grant access to all conference lectures, code labs, and sections. Awesome Google I/O T-shirt, cool stickers, personal badge, dinner pizza party are all included in the ticket price.",
   "close": "Close",
   "soldOutTickets": "Sold Out",
   "socialTitle": "Social",
@@ -120,7 +120,7 @@
     }
   ],
   "callToAction": {
-    "videoTitle": "Google I/O 2016  Extended IUT ",
+    "videoTitle": "We had Google I/O 2016  Extended IUT ",
     "videoId": "SY8cpgqxIN8"
   }
 }
